@@ -18,4 +18,8 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./144953.png "Optional title")
+
+### Observação 
+
+- Amaquina deve estar no modo "bridged adapter" 
