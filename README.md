@@ -22,4 +22,4 @@
 
 ### Observação 
 
-- Amaquina deve estar no modo "bridged adapter" 
+- O kali deve estar no modo "bridged adapter" 
